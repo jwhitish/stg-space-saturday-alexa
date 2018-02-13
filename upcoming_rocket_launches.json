@@ -1,0 +1,14 @@
+[{
+		"uid": "CHANNEL_MULTI_ITEM_JSON_TTS_1",
+		"updateDate": "2018-02-12T00:00:00.0Z",
+		"titleText": "Sunday, February 11th",
+		"mainText": "Sunday, February 11th, The Soyuz Progress 69P launch is scheduled for liftoff at 03:58 eastern standard time. The payload will be various items meant to resupply the ISS. Watch it lyve at online dot roscosmos, dot R U",
+		"redirectionUrl": "https://www.spacetourismguide.com/launch-calendar/"
+	},
+	{
+		"uid": "CHANNEL_MULTI_ITEM_JSON_TTS_2",
+		"updateDate": "2018-02-12T00:00:01.0Z",
+		"titleText": "Six other launches scheduled for February",
+		"mainText": "Six other launches are scheduled for February but dates are yet to be confirmed, we will update as soon as launch information is available. The highlight of the month is the successful launch of SpaceX's Falcon Heavy rocket and subsequent landing of the two side boosters, as well as deployment of Musk's personal Tesla Roadster with Star man in the driver seat. For more upcoming launch news, visit Space Tourism Guide dot com, slash launch, dash calendar.",
+		"redirectionUrl": "https://www.spacetourismguide.com/launch-calendar/"
+	}]
